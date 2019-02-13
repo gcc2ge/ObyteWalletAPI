@@ -1,5 +1,5 @@
 {
-  "name": "bbwallet",
+  "name": "ObyteWalletAPI",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,8 +13,6 @@
     "bitcore-lib": "0.15.0",
     "bitcore-mnemonic": "^1.5.0",
     "byteball": "^0.1.1",
-    "byteball-wallet": "file:/Users/shouhewu/devWorkspace/byteballWorkspace/byteball/angular-bitcore-wallet-client",
-    "byteballcore": "file:/Users/shouhewu/Downloads/byteballcore",
     "lodash": "^4.6.1",
     "preconditions": "^1.0.8",
     "prettyjson": "^1.2.1",
